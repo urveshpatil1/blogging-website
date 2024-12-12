@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medium Clone
 
 This project is a clone of the popular blogging platform Medium, built using a modern tech stack to deliver a scalable, performant, and secure application.
@@ -25,3 +26,7 @@ This project is a clone of the popular blogging platform Medium, built using a m
 
 A common module has been implemented to export Zod validation and type inference to both the backend and frontend, ensuring consistency and reusability of validation logic across the application.
 
+=======
+# blogging-website
+This project is a clone of the popular blogging platform Medium, built using a modern tech stack to deliver a scalable, performant, and secure application.
+>>>>>>> ef81c2b0d63e0e7089c04a93209b74024585338f
